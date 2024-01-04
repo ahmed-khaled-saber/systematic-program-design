@@ -1,6 +1,6 @@
 "# systematic-program-design" 
 Day#01: Principles, and Issues Map
-Day#02:
+Day#02: Code for a Varity of Problems on BSL
 Day#03:
 Day#04:
 Day#05:
